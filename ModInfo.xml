@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModInfo>
+  <Name>HomeMod</Name>
+  <Author>You</Author>
+  <Version>1.0</Version>
+  <Description>Adds the /sethome and /home commands.</Description>
+</ModInfo>
